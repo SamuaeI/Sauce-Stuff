@@ -1,3 +1,5 @@
+--@Sammmuael
+--6/2/2020
 local function ConvertWavelength(Wavelength, Color)
     if Wavelength >= 360 and Wavelength < 450 then -- Violet
         Color = Color3.fromRGB(156, 42, 255)
