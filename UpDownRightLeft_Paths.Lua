@@ -1,7 +1,7 @@
 --@Sammmuael
 --7/19/2020
 
--- NOTICE: Inefficient due to the lack of collision detection
+-- NOTICE, Inefficient due to the lack of collision detection
 
 local function CreatePath(Amount, Direction)
  local PreviousPosition
