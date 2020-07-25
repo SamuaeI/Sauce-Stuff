@@ -4,7 +4,7 @@ local function LogisticMap(r, x, trials)
 
     local NewX = r * x * (1 - x)
     x = NewX
-    print(NewX)
+    print(x)
 
     local Point = Instance.new("Part")
     Point.BrickColor = BrickColor.new("Really blue")
