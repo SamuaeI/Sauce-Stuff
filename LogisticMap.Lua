@@ -12,7 +12,7 @@ local function LogisticMap(r, x, trials)
     Point.Anchored = true
     Point.Size = Vector3.new(0.25,0.25,0.25)
     Point.Parent = workspace
-    Point.Position = Vector3.new(0,x,i*0.25)
+    Point.Position = Vector3.new(0,x,i)
   end
 end
 
